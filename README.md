@@ -1,2 +1,3 @@
 # hello-world
-Starting Repository
+This is a branch repository.
+This is the first time I use git hub.
